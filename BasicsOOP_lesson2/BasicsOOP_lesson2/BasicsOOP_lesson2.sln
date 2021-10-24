@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicsOOP_lesson2", "BasicsOOP_lesson2\BasicsOOP_lesson2.csproj", "{13E39D4A-E5A5-45F0-80F4-FA9D9A7104A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicsOOP_lesson2", "BasicsOOP_lesson2\BasicsOOP_lesson2.csproj", "{42DB1280-8E1B-48DD-B41C-BC056DC3DC66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13E39D4A-E5A5-45F0-80F4-FA9D9A7104A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13E39D4A-E5A5-45F0-80F4-FA9D9A7104A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13E39D4A-E5A5-45F0-80F4-FA9D9A7104A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13E39D4A-E5A5-45F0-80F4-FA9D9A7104A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DB1280-8E1B-48DD-B41C-BC056DC3DC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DB1280-8E1B-48DD-B41C-BC056DC3DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DB1280-8E1B-48DD-B41C-BC056DC3DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DB1280-8E1B-48DD-B41C-BC056DC3DC66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {811FF75C-54CC-48F5-B3BC-83110281BB5E}
+		SolutionGuid = {18A87904-427A-4B1D-B141-24FEA3DC1C11}
 	EndGlobalSection
 EndGlobal
